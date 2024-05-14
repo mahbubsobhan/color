@@ -1,0 +1,47 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  width: 1170px;
+  margin: auto;
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.wrapper{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #54a0ff;
+}
+.clr{
+  outline: 1px solid black;
+  border-radius: 10px;
+  padding: 5px;
+}
+.btn{
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.btnn{
+  display:block;
+}
+.redd{
+  outline: 5px solid black;
+  padding: 18px;
+}
+.bluee{
+  outline: 5px solid black;
+  padding: 18px;
+}
+.white{
+  outline: 5px solid black;
+  padding: 18px;
+}
